@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idiomas</string>
+    <string name="idioma">Português (BR)</string>
+    <string name="descrição">Meu nome é Felipe Barbosa, eu moro no Brasil e estou estudando Android</string>
+</resources>
