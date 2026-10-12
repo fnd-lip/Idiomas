@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Idiomas</string>
+    <string name="idioma">English (EN)</string>
+    <string name="descrição">My name is Felipe Barbosa, I live in Brazil, and I am studying Android.</string>
+</resources>
